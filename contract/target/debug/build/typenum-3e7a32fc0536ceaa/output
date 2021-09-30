@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/taoyiran/Desktop/pro/near/fight/contract/target/debug/build/typenum-3e7a32fc0536ceaa/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/taoyiran/Desktop/pro/near/fight/contract/target/debug/build/typenum-3e7a32fc0536ceaa/out/op.rs
