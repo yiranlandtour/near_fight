@@ -261,7 +261,7 @@ class App extends React.Component {
           }
           <hr></hr>
           <form onSubmit={this.sendCrowdFundGoalSubmit}>
-            <label>活动编号： <input type="text" style={{marginLeft:"10px"}} value={this.state.crowdfunding_num} onChange={(event) => {this.handlewCrowdFundingNumChange(event)}} /> </label><br/>
+            <label>活动编号： <input type="text" style={{marginLeft:"10px"}} value={this.state.crowdfunding_num} onChange={(event) => {this.handlewCrowdFundingNumChange(event)}} /> (请选择上面的活动编号)</label><br/>
             <label>募捐金额： <input type="number" style={{marginLeft:"10px"}} value={this.state.crowdfunding_goal} onChange={(event) => {this.handlewCrowdFundingGoalChange(event)}} /> </label><br/>
             <input type="submit" value="提交" />
           </form>
