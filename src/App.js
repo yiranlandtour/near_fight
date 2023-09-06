@@ -4,6 +4,8 @@ import React from 'react';
 import * as nearAPI from 'near-api-js'
 import Big from 'big.js';
 
+const { keyStores, KeyPair, connect, utils} = nearAPI;
+
 interface CrowdFunding {
   num_campagins: number;  //活动编号
   theme: string;
@@ -116,7 +118,16 @@ class App extends React.Component {
   }
 
   async bidCrowdFund() {
-    let funder_number = await this._contract.bid({"num_campagins":Number(this.state.crowdfunding_num)});
+    let funder_number = await this._account.functionCall({
+                                                    contractId: ContractName,
+                                                    methodName: "bid",
+                                                    args: {
+                                                      num_campagins: Number(this.state.crowdfunding_num),
+                                                    },
+                                                    gas: "300000000000000",
+                                                    attachedDeposit: utils.format.parseNearAmount(this.state.crowdfunding_goal),
+                                                  });
+    //let funder_number = await this._contract.bid({"num_campagins":Number(this.state.crowdfunding_num)});
     if(funder_number > 0 ) {
       console.log("第：" + funder_number + "位捐赠人");
       if (this._accountId) {

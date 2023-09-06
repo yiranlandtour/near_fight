@@ -136,7 +136,7 @@ impl Contract {
     pub fn bid(&mut self, num_campagins: u32) -> u32 {
         let opt_crowd_funding = self.campaigns.get_mut(&num_campagins);
 
-        //todo 如果活动不存在？？？
+        //todo 如果活动不存在 暂不考虑
         let crowd_funding: &mut CrowdFunding = opt_crowd_funding.unwrap();
         //参与人募捐的near数量
         let amount = env::attached_deposit();
