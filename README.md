@@ -129,3 +129,28 @@ yarn start
 
 #### 募捐合约授权人登陆页面展示
 募捐合约授权人权限：1、创建募捐活动的权利；2、展示所有募捐活动
+
+![Alt text](images/onwer-1.png)
+
+![Alt text](images/onwer-2.png)
+
+![Alt text](images/onwer-3.png)
+
+![Alt text](images/onwer-4.png)
+
+#### 参与募捐人登陆页面展示
+
+![Alt text](images/participant-1.png)
+
+![Alt text](images/participant-2.png)
+
+![Alt text](images/participant-3.png)
+
+![Alt text](images/participant-4.png)
+
+![Alt text](images/participant-5.png)
+
+![Alt text](images/participant-6.png)
+
+登陆合约授权人账户查看
+![Alt text](images/participant-7.png)
