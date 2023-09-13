@@ -5,17 +5,17 @@
     "main.js.map": "/near_crowdfunding_demo/static/js/main.18f8fc6c.chunk.js.map",
     "runtime-main.js": "/near_crowdfunding_demo/static/js/runtime-main.1b772f36.js",
     "runtime-main.js.map": "/near_crowdfunding_demo/static/js/runtime-main.1b772f36.js.map",
-    "static/js/2.4558116e.chunk.js": "/near_crowdfunding_demo/static/js/2.4558116e.chunk.js",
-    "static/js/2.4558116e.chunk.js.map": "/near_crowdfunding_demo/static/js/2.4558116e.chunk.js.map",
+    "static/js/2.12a4c9a3.chunk.js": "/near_crowdfunding_demo/static/js/2.12a4c9a3.chunk.js",
+    "static/js/2.12a4c9a3.chunk.js.map": "/near_crowdfunding_demo/static/js/2.12a4c9a3.chunk.js.map",
     "index.html": "/near_crowdfunding_demo/index.html",
-    "precache-manifest.805761baf88ae26ee996e49f09caaf94.js": "/near_crowdfunding_demo/precache-manifest.805761baf88ae26ee996e49f09caaf94.js",
+    "precache-manifest.1dce339e1a98946317cf578047735034.js": "/near_crowdfunding_demo/precache-manifest.1dce339e1a98946317cf578047735034.js",
     "service-worker.js": "/near_crowdfunding_demo/service-worker.js",
     "static/css/main.711ea19d.chunk.css.map": "/near_crowdfunding_demo/static/css/main.711ea19d.chunk.css.map",
-    "static/js/2.4558116e.chunk.js.LICENSE.txt": "/near_crowdfunding_demo/static/js/2.4558116e.chunk.js.LICENSE.txt"
+    "static/js/2.12a4c9a3.chunk.js.LICENSE.txt": "/near_crowdfunding_demo/static/js/2.12a4c9a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1b772f36.js",
-    "static/js/2.4558116e.chunk.js",
+    "static/js/2.12a4c9a3.chunk.js",
     "static/css/main.711ea19d.chunk.css",
     "static/js/main.18f8fc6c.chunk.js"
   ]

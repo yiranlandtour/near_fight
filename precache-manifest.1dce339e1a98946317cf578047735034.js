@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0cd489d911b366cf0e3fb7010d8edb6f",
+    "revision": "bfa1676205942b2cd836abbc485794c8",
     "url": "/near_crowdfunding_demo/index.html"
   },
   {
@@ -8,12 +8,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/near_crowdfunding_demo/static/css/main.711ea19d.chunk.css"
   },
   {
-    "revision": "b66e65020cd97120a3b0",
-    "url": "/near_crowdfunding_demo/static/js/2.4558116e.chunk.js"
+    "revision": "9c801191d276616cb8af",
+    "url": "/near_crowdfunding_demo/static/js/2.12a4c9a3.chunk.js"
   },
   {
     "revision": "3bb3494124db52eabe35442096be882b",
-    "url": "/near_crowdfunding_demo/static/js/2.4558116e.chunk.js.LICENSE.txt"
+    "url": "/near_crowdfunding_demo/static/js/2.12a4c9a3.chunk.js.LICENSE.txt"
   },
   {
     "revision": "ab01cd7ab296c2396fac",
