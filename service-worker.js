@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/near_crowdfunding_pages/precache-manifest.1bf1afbb060c4946641b8ca8cb081fb4.js"
+  "/near_crowdfunding_pages/precache-manifest.3920d372391735a8c1acf6fde7f4c546.js"
 );
 
 self.addEventListener('message', (event) => {
