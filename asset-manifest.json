@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/near_crowdfunding_demo/static/css/main.711ea19d.chunk.css",
-    "main.js": "/near_crowdfunding_demo/static/js/main.18f8fc6c.chunk.js",
-    "main.js.map": "/near_crowdfunding_demo/static/js/main.18f8fc6c.chunk.js.map",
-    "runtime-main.js": "/near_crowdfunding_demo/static/js/runtime-main.1b772f36.js",
-    "runtime-main.js.map": "/near_crowdfunding_demo/static/js/runtime-main.1b772f36.js.map",
-    "static/js/2.12a4c9a3.chunk.js": "/near_crowdfunding_demo/static/js/2.12a4c9a3.chunk.js",
-    "static/js/2.12a4c9a3.chunk.js.map": "/near_crowdfunding_demo/static/js/2.12a4c9a3.chunk.js.map",
-    "index.html": "/near_crowdfunding_demo/index.html",
-    "precache-manifest.1dce339e1a98946317cf578047735034.js": "/near_crowdfunding_demo/precache-manifest.1dce339e1a98946317cf578047735034.js",
-    "service-worker.js": "/near_crowdfunding_demo/service-worker.js",
-    "static/css/main.711ea19d.chunk.css.map": "/near_crowdfunding_demo/static/css/main.711ea19d.chunk.css.map",
-    "static/js/2.12a4c9a3.chunk.js.LICENSE.txt": "/near_crowdfunding_demo/static/js/2.12a4c9a3.chunk.js.LICENSE.txt"
+    "main.css": "/crowdfunding/static/css/main.711ea19d.chunk.css",
+    "main.js": "/crowdfunding/static/js/main.5a0e4a57.chunk.js",
+    "main.js.map": "/crowdfunding/static/js/main.5a0e4a57.chunk.js.map",
+    "runtime-main.js": "/crowdfunding/static/js/runtime-main.b729ac96.js",
+    "runtime-main.js.map": "/crowdfunding/static/js/runtime-main.b729ac96.js.map",
+    "static/js/2.87866e44.chunk.js": "/crowdfunding/static/js/2.87866e44.chunk.js",
+    "static/js/2.87866e44.chunk.js.map": "/crowdfunding/static/js/2.87866e44.chunk.js.map",
+    "index.html": "/crowdfunding/index.html",
+    "precache-manifest.8d2f420ea17fecf114c28e0d99dcf50b.js": "/crowdfunding/precache-manifest.8d2f420ea17fecf114c28e0d99dcf50b.js",
+    "service-worker.js": "/crowdfunding/service-worker.js",
+    "static/css/main.711ea19d.chunk.css.map": "/crowdfunding/static/css/main.711ea19d.chunk.css.map",
+    "static/js/2.87866e44.chunk.js.LICENSE.txt": "/crowdfunding/static/js/2.87866e44.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b772f36.js",
-    "static/js/2.12a4c9a3.chunk.js",
+    "static/js/runtime-main.b729ac96.js",
+    "static/js/2.87866e44.chunk.js",
     "static/css/main.711ea19d.chunk.css",
-    "static/js/main.18f8fc6c.chunk.js"
+    "static/js/main.5a0e4a57.chunk.js"
   ]
 }
